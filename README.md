@@ -11,6 +11,7 @@
 
 | שם המשחק | גרסה / פלטפורמה | תיאור | הורדה ישירה (Windows) |
 | :--- | :---: | :--- | :---: |
+| **טורבו משפחתי (Family Turbo)** | `v2.0.0` | משחק מרוצי קארטינג בעברית מלאה עם 17 מסלולים מעוצבים (כולל גות'האם וקריפטון), תמיכה בשלטי Xbox, מסך מפוצל לשחקנים מרובים וקיצורי דרך סודיים. | [⬇️ הורדת FamilyTurbo_V2.0.0.exe](https://github.com/shhgabay/Downloads/releases/download/FamilyTurbo_V2.0.0/FamilyTurbo_V2.0.0.exe) |
 | **Grid Breaker** | `v2.0.0` | משחק ארקייד לכיבוש שטחים עם חלליות לבחירה, שלבים מאתגרים וטבלאות שיאים. | [⬇️ הורדת GridBreakerV2.exe](https://github.com/shhgabay/Downloads/releases/download/GridBreakerV2.0.0/GridBreakerV2.exe) |
 | **Orcs Must Die True 3D Edition** | `v2.0` | משחק פעולה והגנה תלת-ממדי (Action / Tower Defense) לבלימת גלי אורקים באמצעות מלכודות וכלי נשק. | [⬇️ הורדת Orcs.Must.Die.True.3D.Edition.20.exe](https://github.com/shhgabay/Downloads/releases/download/Orcs.Must.Die.True.3D.Edition.2.0/Orcs.Must.Die.True.3D.Edition.20.exe) |
 | **שליט הממדים (Shalit HaMimadim)** | `Win x64` | משחק הרפתקאות ופעולה קלאסי בגרסה עצמאית ל-Windows (קובץ ארכיון לחילוץ והפעלה). | [⬇️ הורדת ShalitHamimadim-win32-x64.7z](https://github.com/shhgabay/Downloads/releases/download/ShalitHamimadim-win32-x64/ShalitHamimadim-win32-x64.7z) |
@@ -55,6 +56,7 @@ All releases are packaged as standalone builds ready to run out of the box.
 
 | Game | Version / Platform | Description | Direct Download (Windows) |
 | :--- | :---: | :--- | :---: |
+| **Family Turbo (טורבו משפחתי)** | `v2.0.0` | Hebrew kart-racing game featuring 17 themed tracks (including Gotham and Krypton), Xbox controller support, split-screen multiplayer, and secret shortcuts. | [⬇️ Download FamilyTurbo_V2.0.0.exe](https://github.com/shhgabay/Downloads/releases/download/FamilyTurbo_V2.0.0/FamilyTurbo_V2.0.0.exe) |
 | **Grid Breaker** | `v2.0.0` | Territory-claiming arcade game featuring selectable spaceships, challenging levels, and leaderboards. | [⬇️ Download GridBreakerV2.exe](https://github.com/shhgabay/Downloads/releases/download/GridBreakerV2.0.0/GridBreakerV2.exe) |
 | **Orcs Must Die True 3D Edition** | `v2.0` | 3D action tower-defense game where you defend against waves of orcs using traps and weapons. | [⬇️ Download Orcs.Must.Die.True.3D.Edition.20.exe](https://github.com/shhgabay/Downloads/releases/download/Orcs.Must.Die.True.3D.Edition.2.0/Orcs.Must.Die.True.3D.Edition.20.exe) |
 | **Shalit HaMimadim (שליט הממדים)** | `Win x64` | Classic Hebrew action-adventure game packaged as a standalone Windows build (extract archive and run). | [⬇️ Download ShalitHamimadim-win32-x64.7z](https://github.com/shhgabay/Downloads/releases/download/ShalitHamimadim-win32-x64/ShalitHamimadim-win32-x64.7z) |
