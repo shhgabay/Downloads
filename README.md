@@ -20,6 +20,7 @@
 | **שליט הממדים 2 (Shalit HaMimadim 2)** | `Win x64` | משחק ההמשך בסדרת ההרפתקאות והפעולה הקלאסית בגרסה עצמאית ל-Windows (קובץ ארכיון לחילוץ והפעלה). | [⬇️ הורדת ShalitHamimadim2-win32-x64.7z](https://github.com/shhgabay/Downloads/releases/download/ShalitHamimadim2-win32-x64/ShalitHamimadim2-win32-x64.7z) |
 | **שליט הממדים 3 (Shalit HaMimadim 3)** | `Win x64` | החלק השלישי בסדרת ההרפתקאות והפעולה הקלאסית בגרסת הרצה עצמאית (EXE) ל-Windows. | [⬇️ הורדת ShalitHamimadim3.exe](https://github.com/shhgabay/Downloads/releases/download/ShalitHamimadim3/ShalitHamimadim3.exe) |
 | **שליט הממדים 4 (Shalit HaMimadim 4)** | `Win x64` | החלק הרביעי בסדרת ההרפתקאות בעולם תלת-ממדי עתידני עם רובוטים, כלב רובוט ומרוצי מכוניות (EXE עצמאי ל-Windows). | [⬇️ הורדת ShalitHamimadim4.exe](https://github.com/shhgabay/Downloads/releases/download/ShalitHamimadim4/ShalitHamimadim4.exe) |
+| **שליט הממדים 5 (Shalit HaMimadim 5)** | `v1.0.0` · Windows | החלק החמישי בסדרת ההרפתקאות והפעולה התלת-ממדית בגרסת הרצה עצמאית (EXE) ל-Windows. | [⬇️ הורדת ShalitHamimadim5.exe](https://github.com/shhgabay/Downloads/releases/download/ShalitHamimadim5_V1.0.0/ShalitHamimadim5.exe) |
 
 ---
 
@@ -69,6 +70,7 @@ All releases are packaged as standalone builds ready to run out of the box.
 | **Shalit HaMimadim 2 (שליט הממדים 2)** | `Win x64` | The sequel in the classic Hebrew action-adventure series packaged as a standalone Windows build (extract archive and run). | [⬇️ Download ShalitHamimadim2-win32-x64.7z](https://github.com/shhgabay/Downloads/releases/download/ShalitHamimadim2-win32-x64/ShalitHamimadim2-win32-x64.7z) |
 | **Shalit HaMimadim 3 (שליט הממדים 3)** | `Win x64` | The third installment in the classic Hebrew action-adventure series packaged as a standalone Windows executable. | [⬇️ Download ShalitHamimadim3.exe](https://github.com/shhgabay/Downloads/releases/download/ShalitHamimadim3/ShalitHamimadim3.exe) |
 | **Shalit HaMimadim 4 (שליט הממדים 4)** | `Win x64` | The fourth installment in the adventure series, set in a 3D futuristic world with robots, a robot dog companion, and car racing (standalone Windows EXE). | [⬇️ Download ShalitHamimadim4.exe](https://github.com/shhgabay/Downloads/releases/download/ShalitHamimadim4/ShalitHamimadim4.exe) |
+| **Shalit HaMimadim 5 (שליט הממדים 5)** | `v1.0.0` · Windows | The fifth installment in the 3D action-adventure series packaged as a standalone Windows executable. | [⬇️ Download ShalitHamimadim5.exe](https://github.com/shhgabay/Downloads/releases/download/ShalitHamimadim5_V1.0.0/ShalitHamimadim5.exe) |
 
 ---
 
